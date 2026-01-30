@@ -16,6 +16,12 @@
         "key": "tanujhacks",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
+    }, 
     
+    {
+        "device_id": "03ad1db939cd6c12",
+        "key": "userkeyhack",
+        "expirydate": "3-02-2026",
+        "Allowoffline": false
+    } 
 ]
