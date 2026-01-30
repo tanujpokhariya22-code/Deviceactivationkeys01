@@ -23,5 +23,11 @@
         "key": "userkeyhack",
         "expirydate": "3-02-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "7033b2dc3abba3fe",
+        "key": "userpanelkey",
+        "expirydate": "3-02-2026",
+        "Allowoffline": false
     } 
 ]
